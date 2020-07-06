@@ -1,0 +1,26 @@
+{
+  "name": "instagramjs",
+  "version": "1.0.0",
+  "description": "Instagram platform from scratch NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deadpool205/InstagramJS.git"
+  },
+  "keywords": [
+    "instagram",
+    "node",
+    "nodejs",
+    "react"
+  ],
+  "author": "deadpool205",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Deadpool205/InstagramJS/issues"
+  },
+  "homepage": "https://github.com/Deadpool205/InstagramJS#readme"
+}
