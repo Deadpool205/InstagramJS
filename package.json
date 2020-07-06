@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Deadpool205/InstagramJS#readme",
   "dependencies": {
+    "events": "^3.1.0",
     "http": "0.0.1-security"
   }
 }

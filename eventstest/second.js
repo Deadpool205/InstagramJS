@@ -1,9 +1,14 @@
 var events = require('events');
 
-var eventEmitter = new events.eventEmitter();
-eventEmitter.emit('plantABomb',function plantABomb(){
+var eventEmitter = new events.EventEmitter();
+
+eventEmitter.on('callPolice', function callPolice(){
+    console.log("Police Notified");
+})
+
+eventEmitter.on('plantABomb',function plantABomb(){
     console.log("Bomb Planted!");
-    
+    eventEmitter.emit('callPolice');
 })
 
 eventEmitter.emit('plantABomb');
