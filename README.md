@@ -1,2 +1,6 @@
 # InstagramJS
-Learning instagram JS
+Learning instagram JS by building my own Instagram from scratch.
+
+This is a full serverside instagram written in Javascript. This will require time/skill above beginner and a lot of effort, so know this before cloning.
+
+Learning instagram JS and other NODE JS features with guide. GITHUB was easiest way to organize. No instructions given because they are not my own and I do not have the right to share them. The code is hand written from a Udemy class linked here: https://www.udemy.com/share/103hX4CUISdV5TRXo=/ not sure if this is a referral link or not. Do not care either way, this is how it's done. Not a short one, not a cheap one, but to do it right, you gotta put time and effort into it. This will be used in blockchain/dApps later so good luck. This code is not technically licensed as it isn't directly copied and I may add my own spin on it, but the intellectual property belongs to Udemy so be careful if using this for commercial without massive rewrites. If you fork from here, I will provide little to no support (might be in a good mood one day and answer questions) but all responsibility will be your own. I kept this public so my buddy and I could take the course together.
