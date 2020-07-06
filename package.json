@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Deadpool205/InstagramJS/issues"
   },
-  "homepage": "https://github.com/Deadpool205/InstagramJS#readme"
+  "homepage": "https://github.com/Deadpool205/InstagramJS#readme",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
 }
