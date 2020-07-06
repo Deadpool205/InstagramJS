@@ -1,4 +1,8 @@
 var http = require("http");
+var fs   = require('fs');
+
+var data = fs.readFileSync('input.txt');
+console.log("Synchronus read: ",data.toString());
 
 http.createServer(function(request, response)
     {
